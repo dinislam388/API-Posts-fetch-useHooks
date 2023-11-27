@@ -14,7 +14,6 @@ function App() {
     <>
      <h1 className="heading">Task: 8___Fetch Data Using Custom Hooks</h1>
      <h2 className="heading2">Post Data from JSON_Placeholder</h2>
-     {/* <PostsData/> */}
      <div className="postMap">
       {
         postsData.map((data,index ) => (

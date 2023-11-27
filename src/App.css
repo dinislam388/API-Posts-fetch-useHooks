@@ -20,6 +20,7 @@
   border: 1px solid rgb(229, 229, 229);
   text-align: center;
   transition: all 0.3s ease;
+  padding: 10px;
 }
 
 .postInfo:hover {
